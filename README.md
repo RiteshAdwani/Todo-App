@@ -2,6 +2,7 @@
 - This is a simple Todo list app built using React. 
 - With this app, you can easily manage your daily tasks and keep track of your progress.
 - The app is built using React components : class component, stateless component and functional component with hooks.
+- Live Demonstration: [TODO App](https://my-todo-app-using-react.netlify.app/)
 
 *****
 
